@@ -54,9 +54,9 @@ Below is a curated comparison of top commercial field service platforms, sorted 
 
 ## 🔓 Open-Source GitHub Projects
 
-Explore open-source Field Workforce Management tools, ERP modules, routing engines, and offline mobile data collectors. Sorted by GitHub Star Count (descending).
+Explore open-source Field Workforce Management tools, ERP modules, routing engines, and offline mobile data collectors. Sorted by GitHub Stars_Count (descending).
 
-| Project & Repo 📦 | GitHub Stars ⭐ | License 📜 | Description 🎯 |
+| Project & Repo 📦 | GitHub_Stars ⭐ | License 📜 | Description 🎯 |
 | :--- | :--- | :--- | :--- |
 | **[odoo/odoo](https://github.com/odoo/odoo)** | [![odoo/odoo Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | LGPL-3.0 | Open-source suite of integrated business apps including Field Service, Project, Inventory, and CRM. |
 | **[frappe/erpnext](https://github.com/frappe/erpnext)** | [![frappe/erpnext Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | GPL-3.0 | World's top open-source ERP with field service applications, service requests, dispatching, and spare parts management. |
